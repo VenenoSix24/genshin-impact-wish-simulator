@@ -138,7 +138,7 @@ npm run build
 
 Before Deploy to online server, please setup the environment variables by renaming file `.env.example` to `.env` and change the variables if needed.
 
-\*\* You can still deploy the app without even set the environment variables
+\*\* You can still deploy the app without even set the environment variables.
 
 ---
 
